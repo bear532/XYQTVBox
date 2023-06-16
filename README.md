@@ -1,6 +1,8 @@
-https://raw.githubusercontent.com/bear532/XYQTVBox/master/XYQ.json
-https://ghproxy.com/raw.githubusercontent.com/bear532/XYQTVBox/master/XYQ.json
-https://cdn.jsdelivr.net/gh/bear532/XYQTVBox@master/XYQ.json
+# XYQTVBox
+
+XYQTVBox [# 加速網址點我](https://ghproxy.com/raw.githubusercontent.com/bear532/XYQTVBox/master/XYQ.json) [# 網址點我1](https://ghproxy.com/raw.githubusercontent.com/bear532/XYQTVBox/master/XYQ.json) [# 網址點我2](https://cdn.jsdelivr.net/gh/bear532/XYQTVBox@master/XYQ.json)
+https://raw.githubusercontent.com/bear532/box/main/tvboxqq/饭太硬/api.json
+
 
 tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 1. tvbox配置：
